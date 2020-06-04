@@ -1,6 +1,6 @@
 # ML_app-with-streamlit
 
-# How to run 
+## How to run 
  
  # 1.Install required libraries
  pip install -r requirements.txt
