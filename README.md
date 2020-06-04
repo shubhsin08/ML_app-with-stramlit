@@ -1,1 +1,1 @@
-# ML_app-with-stramlit
+# ML_app-with-streamlit
